@@ -7,7 +7,7 @@
     <title>Ex1</title>
 </head>
 <body>
+    <a href="/">หน้าแรก</a> | <a href="/about">About</a> | <a href="/contact">Contact</a>
 <h1>Homepage</h1>
-<a href="/">หน้าแรก</a> | <a href="/about">About</a> | <a href="/contact">Contact</a>
 </body>
 </html>
